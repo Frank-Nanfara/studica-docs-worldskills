@@ -13,8 +13,11 @@ Welcome to the Studica Robotics documentation page. Here you will find lots of i
    :maxdepth: 1
    :caption: Software
 
-   Java API <https://www.studica.com/downloads/Studica-Robotics/FRC-WSR/Titan/Docs/JavaAPIDocs/annotated.html>
    C++ API <https://www.studica.com/downloads/Studica-Robotics/FRC-WSR/Titan/Docs/CppAPIDocs/annotated.html>
+   Java API <https://www.studica.com/downloads/Studica-Robotics/FRC-WSR/Titan/Docs/JavaAPIDocs/annotated.html>
+   LabVIEW API - Coming soon
+   Python API - Coming Soon
+   ROS API - Coming Soon
    docs/Software/software-setup/index
    docs/Software/programming/index
    docs/Software/troubleshooting
